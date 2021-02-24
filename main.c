@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-int main
+int main()
 {
     printf("8 r n b q k b n r\n");
     printf("7 p p p p p p p p \n6\n5\n4\n3\n");
